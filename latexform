@@ -1,0 +1,47 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{vntex}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage[most]{tcolorbox}
+\usepackage{amssymb}
+\usepackage[left=2.00cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+
+\renewcommand{\baselinestretch}{1.5}
+\title{title here}
+\author{x/x/2022}
+\date{}
+\setlength{\parindent}{0pt}
+\begin{document}
+	\maketitle
+	
+	\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 1 ]
+		
+	\end{tcolorbox}
+	
+	
+	\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 2 ]
+		
+	\end{tcolorbox}
+
+\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 3 ]
+	
+\end{tcolorbox}
+
+
+\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 4 ]
+	
+\end{tcolorbox}
+
+
+\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 5 ]
+	
+\end{tcolorbox}
+
+
+\begin{tcolorbox}[colback=black!5!white,colframe=black!50!black,title=Problem 6 ]
+	
+\end{tcolorbox}
+\end{document}
